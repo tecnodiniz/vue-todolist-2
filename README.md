@@ -1,4 +1,12 @@
 # vue-todo-2
+## functional To-Do List project using Vue.js.
+
+* Dynamic functionality for task management using v-for.
+* State control for checkboxes with data binding (v-model).
+* Allows individual task marking/unmarking with style updates.
+* Minimalist design with CSS classes for visual feedback.
+* Component-based structure for reusability and scalability.
+
 
 ## Project setup
 ```
