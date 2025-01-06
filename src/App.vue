@@ -1,5 +1,5 @@
 <template>
-  <div class="col-12">
+  <div class="col-12" @keyup.ctrl.delete="tasks=[]">
     <div class="card col-10 col-lg-3 col-md-6 col-sm-6">
       <div class="card-header">
         <h3><strong>TO-DO LIST</strong></h3>
